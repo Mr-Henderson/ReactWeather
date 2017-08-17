@@ -1,5 +1,26 @@
 $space-large: 2.5rem;
 $title-color: #555;
+
+body {
+    background-color: aliceblue;
+    background-image: url("/img/sarah-lake-tahoe.png");
+    background-size:cover;
+    background-position:top;
+
+}
+
+// .img {
+//     background: url(../images/sarah-lake-tahoe.png) no-repeat center center fixed;
+//     -webkit-background-size: cover;
+//     -moz-background-size: cover;
+//     -o-background-size: cover;
+//     background-size: cover;
+    // z-index: 1;
+// }
+
+// $body-bg: transparent;
+
+
 .page-title {
   color: $title-color;
   margin-top: $space-large;
